@@ -11,14 +11,16 @@ Mục lục
 	  - [Mô hình client - server](#mô-hình-client---server)
 	  - [Cách hoạt động của một website tĩnh](#cách-hoạt-động-của-một-website-tĩnh)
 	  - [Cách hoạt động của một website động](#cách-hoạt-động-của-một-website-động)
+	  - [HTML](#html)
+	  - [CSS](#css)
+	  - [Javascript](#javascript)
 <!--te-->
 
 
 Nội dung
 =======
 
-Khởi đầu
------------
+#Khởi đầu
 
 ### Kiến trúc của một website
 -------------------------------------------
@@ -78,5 +80,5 @@ Khởi đầu
 ##### Xampp
 ----------------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjY1MzczMzksLTYzMjczMzM4M119
+eyJoaXN0b3J5IjpbLTE2OTk4MTIwMTIsLTYzMjczMzM4M119
 -->

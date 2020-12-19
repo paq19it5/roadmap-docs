@@ -5,8 +5,11 @@ Tài liệu về lộ trình PHP
 Mục lục
 ======
 <!--ts-->
-  [Tài liệu về lộ trình PHP](#tai-lieu-ve-lo-trinh-php)
-  [Mục lục](#muc-luc)
+  - [Tài liệu về lộ trình PHP](#tài-liệu-về-lộ-trình-php)
+  - [Mục lục](#mục-luck)
+  - [Nội dung](#noi-dung)
+	  - [Khởi đầu](#khởi-đầu)
+  
 <!--te-->
 
 
@@ -74,5 +77,5 @@ Khởi đầu
 ##### Xampp
 ----------------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NTkzNjE1MCwtNjMyNzMzMzgzXX0=
+eyJoaXN0b3J5IjpbMTc5MjUyNTMxMywtNjMyNzMzMzgzXX0=
 -->

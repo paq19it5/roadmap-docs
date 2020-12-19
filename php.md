@@ -36,7 +36,19 @@ Khởi đầu
 #### CSS
 -----------
 
-#### Javas
+#### Javascript
+------------------
+
+### Các phần mềm cần thiết
+----------------------------------------
+
+#### Phần mềm soạn
+-------------------------
+
+##### Visual Studio Code
+--------------------------
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzYwNzAzNTQsLTYzMjczMzM4M119
+eyJoaXN0b3J5IjpbMjg1MzAzNTI0LC02MzI3MzMzODNdfQ==
 -->

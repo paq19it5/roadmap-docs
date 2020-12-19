@@ -6,10 +6,11 @@ Mục lục
 ======
 <!--ts-->
   - [Tài liệu về lộ trình PHP](#tài-liệu-về-lộ-trình-php)
-  - [Mục lục](#mục-luck)
-  - [Nội dung](#noi-dung)
+  - [Mục lục](#mục-lục)
+  - [Nội dung](#nội-dung)
 	  - [Khởi đầu](#khởi-đầu)
-  
+		  - [Kiến trúc của một website](#kiến-trúc-của-một-website)
+			  - [Mô hình client - server](#mô-hình-client---server)
 <!--te-->
 
 
@@ -77,5 +78,5 @@ Khởi đầu
 ##### Xampp
 ----------------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MjUyNTMxMywtNjMyNzMzMzgzXX0=
+eyJoaXN0b3J5IjpbMTE5MjMzMzgyNiwtNjMyNzMzMzgzXX0=
 -->

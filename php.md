@@ -22,28 +22,19 @@ Nội dung
 
 # Khởi đầu
 
-### Kiến trúc của một website
--------------------------------------------
+###  Cách hoạt động của một website tĩnh
+-----------------------------------------------------------
 
-#### Mô hình client - server
----------------------------------	
-
-#### Cách hoạt động của một website tĩnh
-----------------------------------------------------
-
-#### Cách hoạt động của một website động
+### Cách hoạt động của một website động
 -----------------------------------------------------
 
-### Kiến thức cơ bản của một website
------------------------------------------	
-
-#### HTML
+### HTML
 ---------------
 
-#### CSS
+### CSS
 -----------
 
-#### Javascript
+### Javascript
 ------------------
 
 ### Các phần mềm cần thiết
@@ -80,5 +71,5 @@ Nội dung
 ##### Xampp
 ----------------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NjY4MDI1MCwtNjMyNzMzMzgzXX0=
+eyJoaXN0b3J5IjpbMTQxODkwNjE3OSwtNjMyNzMzMzgzXX0=
 -->

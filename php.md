@@ -48,7 +48,26 @@ Khởi đầu
 ##### Visual Studio Code
 --------------------------
 
+##### Netbean
+----------------
 
+##### PHPStorm
+----------------
+
+##### Notepad++
+----------------
+
+#### Server
+---------------
+##### Apache
+---------------
+##### IIS
+----------------
+
+#### Database
+------------------
+
+#####
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg1MzAzNTI0LC02MzI3MzMzODNdfQ==
+eyJoaXN0b3J5IjpbMTYxMjc0MDQ5NCwtNjMyNzMzMzgzXX0=
 -->

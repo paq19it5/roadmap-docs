@@ -23,6 +23,9 @@ Nội dung
 # Khởi đầu
 
 ## Kiến trúc của một website
+###  Mô hình client - server
+--------------------------------------
+
 ###  Cách hoạt động của một website tĩnh
 -----------------------------------------------------------
 
@@ -68,5 +71,5 @@ Nội dung
 ##### Xampp
 ----------------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NDAxMzEwMiwtNjMyNzMzMzgzXX0=
+eyJoaXN0b3J5IjpbODI5MTgwNjY1LC02MzI3MzMzODNdfQ==
 -->

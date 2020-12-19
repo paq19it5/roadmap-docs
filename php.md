@@ -20,7 +20,7 @@ Mục lục
 Nội dung
 =======
 
-#Khởi đầu
+# Khởi đầu
 
 ### Kiến trúc của một website
 -------------------------------------------
@@ -80,5 +80,5 @@ Nội dung
 ##### Xampp
 ----------------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTk4MTIwMTIsLTYzMjczMzM4M119
+eyJoaXN0b3J5IjpbLTQ3NjY4MDI1MCwtNjMyNzMzMzgzXX0=
 -->

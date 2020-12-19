@@ -21,12 +21,22 @@ Khởi đầu
 #### Mô hình client - server
 ---------------------------------	
 
-#### Cách hoạt 
+#### Cách hoạt động của một website tĩnh
+----------------------------------------------------
+
+#### Cách hoạt động của một website động
+-----------------------------------------------------
 
 ### Kiến thức cơ bản của một website
 -----------------------------------------	
 
+#### HTML
+---------------
 
+#### CSS
+-----------
+
+#### Javas
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5ODA1MjcxNywtNjMyNzMzMzgzXX0=
+eyJoaXN0b3J5IjpbLTE3MzYwNzAzNTQsLTYzMjczMzM4M119
 -->

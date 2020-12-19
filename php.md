@@ -22,12 +22,15 @@ Nội dung
 
 # Khởi đầu
 
+## Kiến trúc của một website
 ###  Cách hoạt động của một website tĩnh
 -----------------------------------------------------------
 
 ### Cách hoạt động của một website động
 -----------------------------------------------------
 
+
+## Kiến thức cơ bản về website
 ### HTML
 ---------------
 
@@ -37,16 +40,10 @@ Nội dung
 ### Javascript
 ------------------
 
-### Các phần mềm cần thiết
-----------------------------------------
 
-#### Phần mềm soạn
--------------------------
 
-##### Visual Studio Code
---------------------------
-
-##### Netbean
+## Các phần mềm cần thiết
+### Netbean
 ----------------
 
 ##### PHPStorm
@@ -71,5 +68,5 @@ Nội dung
 ##### Xampp
 ----------------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxODkwNjE3OSwtNjMyNzMzMzgzXX0=
+eyJoaXN0b3J5IjpbMTE0NDAxMzEwMiwtNjMyNzMzMzgzXX0=
 -->

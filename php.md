@@ -11,6 +11,8 @@ Mục lục
 	  - [Khởi đầu](#khởi-đầu)
 		  - [Kiến trúc của một website](#kiến-trúc-của-một-website)
 			  - [Mô hình client - server](#mô-hình-client---server)
+			  - [Cách hoạt động của một website tĩnh](#cách-hoạt-động-của-một-website-tĩnh)
+			  - [Cách hoạt động của một website động](#cách-hoạt-động-của-một-website động)
 <!--te-->
 
 
@@ -78,5 +80,5 @@ Khởi đầu
 ##### Xampp
 ----------------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MjMzMzgyNiwtNjMyNzMzMzgzXX0=
+eyJoaXN0b3J5IjpbLTU3NDg1NDIxNSwtNjMyNzMzMzgzXX0=
 -->

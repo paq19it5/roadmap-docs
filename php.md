@@ -20,57 +20,29 @@ Mục lục
 Nội dung
 =======
 
-# Khởi đầu
-
-## Kiến trúc của một website
-###  Mô hình client - server
+# Kiến trúc của một website
+##  Mô hình client - server
 --------------------------------------
 
-###  Cách hoạt động của một website tĩnh
+##  Cách hoạt động của một website tĩnh
 -----------------------------------------------------------
 
-### Cách hoạt động của một website động
+## Cách hoạt động của một website động
 -----------------------------------------------------
 
 
-## Kiến thức cơ bản về website
-### HTML
+# Kiến thức cơ bản về website
+## HTML
 ---------------
 
-### CSS
+## CSS
 -----------
 
-### Javascript
+## Javascript
 ------------------
 
 
-
-## Các phần mềm cần thiết
-### Netbean
-----------------
-
-##### PHPStorm
-----------------
-
-##### Notepad++
-----------------
-
-#### Server
----------------
-##### Apache
----------------
-##### IIS
-----------------
-
-#### Database
-------------------
-
-##### Wampserver
--------------------
-
-##### Xampp
-----------------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcxMDY4MDExLDgyOTE4MDY2NSwtNjMyNz
-MzMzgzXX0=
+eyJoaXN0b3J5IjpbLTU0MDA2ODExNyw5NzEwNjgwMTEsODI5MT
+gwNjY1LC02MzI3MzMzODNdfQ==
 -->

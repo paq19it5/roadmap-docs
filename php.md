@@ -5,15 +5,15 @@ Tài liệu về lộ trình PHP
 Mục lục
 ======
 <!--ts-->
-  - [Tài liệu về lộ trình PHP](#tài-liệu-về-lộ-trình-php)
-  - [Mục lục](#mục-lục)
-  - [Nội dung](#nội-dung)
-	  - [Mô hình client - server](#mô-hình-client---server)
-	  - [Cách hoạt động của một website tĩnh](#cách-hoạt-động-của-một-website-tĩnh)
-	  - [Cách hoạt động của một website động](#cách-hoạt-động-của-một-website-động)
-	  - [HTML](#html)
-	  - [CSS](#css)
-	  - [Javascript](#javascript)
+  - [Tài liệu về lộ trình PHP](#user-content-tài-liệu-về-lộ-trình-php)
+  - [Mục lục](#user-content-mục-lục)
+  - [Nội dung](#user-content-nội-dung)
+	  - [Mô hình client - server](#user-content-mô-hình-client---server)
+	  - [Cách hoạt động của một website tĩnh](#user-content-cách-hoạt-động-của-một-website-tĩnh)
+	  - [Cách hoạt động của một website động](#user-content-cách-hoạt-động-của-một-website-động)
+	  - [HTML](#user-content-html)
+	  - [CSS](#user-content-css)
+	  - [Javascript](#user-content-javascript)
 <!--te-->
 
 
@@ -71,5 +71,6 @@ Nội dung
 ##### Xampp
 ----------------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI5MTgwNjY1LC02MzI3MzMzODNdfQ==
+eyJoaXN0b3J5IjpbOTcxMDY4MDExLDgyOTE4MDY2NSwtNjMyNz
+MzMzgzXX0=
 -->

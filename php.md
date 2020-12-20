@@ -6,9 +6,9 @@ Mục lục
 ======
 <!--ts-->
   - Kiến trúc của một website
-	  - [Mô hình client - server](#user-content-mô-hình-client---server)
-	  - [Cách hoạt động của một website tĩnh](#user-content-cách-hoạt-động-của-một-website-tĩnh)
-	  - [Cách hoạt động của một website động](#user-content-cách-hoạt-động-của-một-website-động)
+	  - [Mô hình client - server](#user-content-mo-hinh-client-server)
+	  - [Cách hoạt động của một website tĩnh](#user-content-cac-hoat-dong-cua-website-tinh)
+	  - [Cách hoạt động của một website động](#user-content-cac-hoat-dong-cua-website-dong)
 - Kiến thức cơ bản về website
 	- [HTML](#user-content-html)
 	- [CSS](#user-content-css)
@@ -33,6 +33,7 @@ Nội dung
 
 ## Javascript
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzEzNjgyMTksMTIxMTA2NzI2Myw5Nz
-EwNjgwMTEsODI5MTgwNjY1LC02MzI3MzMzODNdfQ==
+eyJoaXN0b3J5IjpbLTI3NTk3Mjc1MCwtMjA3MTM2ODIxOSwxMj
+ExMDY3MjYzLDk3MTA2ODAxMSw4MjkxODA2NjUsLTYzMjczMzM4
+M119
 -->

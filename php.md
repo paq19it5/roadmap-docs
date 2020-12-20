@@ -5,14 +5,14 @@ Tài liệu về lộ trình PHP
 Mục lục
 ======
 <!--ts-->
-  - [Tài liệu về lộ trình PHP](#user-content-tài-liệu-về-lộ-trình-php)
+  - [Tài liệu về lộ trình PHP
   - [Mục lục](#user-content-mục-lục)
   - [Nội dung](#user-content-nội-dung)
-	  - [Kiến trúc của một website](#user-content-kiến-trúc-của-một-website)
+	  - Kiến trúc của một website
 		  - [Mô hình client - server](#user-content-mô-hình-client---server)
 		  - [Cách hoạt động của một website tĩnh](#user-content-cách-hoạt-động-của-một-website-tĩnh)
 		  - [Cách hoạt động của một website động](#user-content-cách-hoạt-động-của-một-website-động)
-	- [Kiến thức cơ bản về website](user-content-kiến-thức-cơ-bản-về-website)
+	- Kiến thức cơ bản về website
 		- [HTML](#user-content-html)
 		- [CSS](#user-content-css)
 		- [Javascript](#user-content-javascript)
@@ -36,6 +36,6 @@ Nội dung
 
 ## Javascript
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDg0MDkxNTcsOTcxMDY4MDExLDgyOT
-E4MDY2NSwtNjMyNzMzMzgzXX0=
+eyJoaXN0b3J5IjpbOTk2Njg1OTE5LDk3MTA2ODAxMSw4MjkxOD
+A2NjUsLTYzMjczMzM4M119
 -->

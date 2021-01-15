@@ -34,12 +34,16 @@ website động là một tập hợp các dữ liệu số hóa được tổ c
 Khác với web tĩnh, web động luôn luôn có thông tin mới do các thông tin này được cập nhật bởi phần mềm quản trị web do các công ty thiết kế website cung cấp. Các thông tin mới này được lưu vào cơ sở dữ liệu của website và đưa ra sử dụng dựa theo yêu cầu của người dùng.
 # Kiến thức cơ bản về website
 ## HTML
+**HTML**  (viết tắt của từ  **Hypertext Markup Language**, hay là "Ngôn ngữ Đánh dấu Siêu văn bản") là một  [ngôn ngữ đánh dấu](https://vi.wikipedia.org/wiki/Ng%C3%B4n_ng%E1%BB%AF_%C4%91%C3%A1nh_d%E1%BA%A5u "Ngôn ngữ đánh dấu")  được thiết kế ra để tạo nên các  [trang web](https://vi.wikipedia.org/wiki/Website "Website")  trên  [World Wide Web](https://vi.wikipedia.org/wiki/World_Wide_Web "World Wide Web"). Cùng với  [CSS](https://vi.wikipedia.org/wiki/CSS "CSS")  và  [JavaScript](https://vi.wikipedia.org/wiki/JavaScript "JavaScript"), HTML là một trong những ngôn ngữ quan trọng trong lĩnh vực thiết kế website. HTML được định nghĩa như là một ứng dụng đơn giản của  [SGML](https://vi.wikipedia.org/wiki/SGML "SGML")  và được sử dụng trong các tổ chức cần đến các yêu cầu xuất bản phức tạp. HTML đã trở thành một chuẩn mực của  [Internet](https://vi.wikipedia.org/wiki/Internet "Internet")  do tổ chức  [World Wide Web Consortium](https://vi.wikipedia.org/wiki/W3C "W3C")  (W3C) duy trì. Phiên bản chính thức mới nhất của HTML là HTML 4.01 (1999). Sau đó, các nhà phát triển đã thay thế nó bằng  [XHTML](https://vi.wikipedia.org/wiki/XHTML "XHTML"). Hiện nay, phiên bản mới nhất của ngôn ngữ này là  [HTML5](https://vi.wikipedia.org/wiki/HTML5 "HTML5").
 
+Lưu ý: HTML không phải là ngôn ngữ lập trình.
+
+Bằng cách dùng  [HTML động](https://vi.wikipedia.org/wiki/HTML_%C4%91%E1%BB%99ng "HTML động")  hoặc  [Ajax](https://vi.wikipedia.org/wiki/Ajax_(l%E1%BA%ADp_tr%C3%ACnh) "Ajax (lập trình)"), lập trình viên có thể được tạo ra và xử lý bởi số lượng lớn các công cụ, từ một chương trình soạn thảo văn bản đơn giản – có thể gõ vào ngay từ những dòng đầu tiên – cho đến những công cụ xuất bản  [WYSIWYG](https://vi.wikipedia.org/wiki/WYSIWYG "WYSIWYG")  phức tạp.  **Hypertext**  là cách mà các trang Web (được thiết kế bằng HTML) được kết nối với nhau. Và như thế, đường link có trên trang Web được gọi là Hypertext. Như tên gọi đã nói,  **HTML**  là ngôn ngữ đánh dấu bằng thẻ (**Markup Language**), nghĩa là bạn sử dụng HTML để đánh dấu một tài liệu text bằng các  **thẻ (tag)**  để nói cho trình duyệt Web cách để cấu trúc nó để hiển thị
 ## CSS
 
 ## Javascript
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNjczMzI3OSwtMTMzMDM1NjM3NCwtMj
-A3MTM2ODIxOSwtMjA3MTM2ODIxOSwxMjExMDY3MjYzLDk3MTA2
-ODAxMSw4MjkxODA2NjUsLTYzMjczMzM4M119
+eyJoaXN0b3J5IjpbLTE3ODkyNzY2NTAsLTEzMzAzNTYzNzQsLT
+IwNzEzNjgyMTksLTIwNzEzNjgyMTksMTIxMTA2NzI2Myw5NzEw
+NjgwMTEsODI5MTgwNjY1LC02MzI3MzMzODNdfQ==
 -->

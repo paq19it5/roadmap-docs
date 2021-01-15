@@ -42,8 +42,9 @@ Bằng cách dùng  [HTML động](https://vi.wikipedia.org/wiki/HTML_%C4%91%E1%
 ## CSS
 **CSS là chữ viết tắt của cụm từ Cascading Style Sheets** – dịch sang tiếng Việt có nghĩa là tập tin định vị theo tầng. CSS được sử dụng nhằm miêu tả cách trình bày của các loại tài liệu viết bằng ngôn ngữ HTML và XHML. Lúc này CSS sẽ hỗ trợ người dùng có thể thiết kế hay cho thêm vào các phần từ HTML một vài thứ mới mẻ, lạ mắt như thay đổi màu của trang web, thay đổi màu chữ, chuyển đổi cấu trúc,… Ngoài ra CSS cũng có thể được sử dụng cho XML, XUL, SVG,.. Tất cả các hoạt động của **CSS được W3C (World Wide Web Consortium) duy trì và phát triển**.
 ## Javascript
+JavaScript là một [ngôn ngữ lập trình](https://quantrimang.com/16-ngon-ngu-lap-trinh-se-thay-doi-thoi-van-cua-ban-trong-nam-2016-118729 "16 ngôn ngữ lập trình sẽ thay đổi thời vận của bạn") được sử dụng để tạo ra những trang web tương tác. Nó được tích hợp và nhúng trong [HTML](https://quantrimang.com/html5-va-css3-68239 "HTML5 và CSS3 "). JavaScript cho phép kiểm soát các hành vi của trang web tốt hơn so với khi chỉ có một mình HTML. JavaScript kết hợp vào HTML, chạy trên Windows, Macintosh và các hệ thống hỗ trợ Netscape khác.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNzYyOTU3OCwtMTMzMDM1NjM3NCwtMj
-A3MTM2ODIxOSwtMjA3MTM2ODIxOSwxMjExMDY3MjYzLDk3MTA2
-ODAxMSw4MjkxODA2NjUsLTYzMjczMzM4M119
+eyJoaXN0b3J5IjpbLTE5MDYzMjA5OTMsLTEzMzAzNTYzNzQsLT
+IwNzEzNjgyMTksLTIwNzEzNjgyMTksMTIxMTA2NzI2Myw5NzEw
+NjgwMTEsODI5MTgwNjY1LC02MzI3MzMzODNdfQ==
 -->

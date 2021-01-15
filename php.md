@@ -28,9 +28,10 @@ Nội dung
 
 **Mô hình client/server**  như sau: Client/Server là mô hình tổng quát nhất, trên thực tế thì một server có thể được nối tới nhiều server khác nhằm làm việc hiệu quả và nhanh hơn. Khi nhận được 1 yêu cầu từ client, server này có thể gửi tiếp yêu cầu vừa nhận được cho server khác ví dụ như database server vì bản thân nó không thể xử lý yêu cầu này được. Máy server có thể thi hành các nhiệm vụ đơn giản hoặc phức tạp.
 ##  Cách hoạt động của một website tĩnh
-
+website tĩnh là trang web sử dụng hoàn toàn ngôn ngữ HTML, sau khi tải trang HTML từ máy chủ xuống, trình duyệt sẽ biên dịch mã và hiển thị nội dung trang web, người dùng hầu như không thể tương tác với trang web.
 ## Cách hoạt động của một website động
-
+website động là một tập hợp các dữ liệu số hóa được tổ chức thành cơ sở dữ liệu, các dữ liệu số hóa được gọi ra trình diễn trên các trang web dưới dạng văn bản, âm thanh, hình ảnh.nó có thêm các phần xử lý thông tin và truy xuất dữ liệu còn website tĩnh thì không.  
+Khác với web tĩnh, web động luôn luôn có thông tin mới do các thông tin này được cập nhật bởi phần mềm quản trị web do các công ty thiết kế website cung cấp. Các thông tin mới này được lưu vào cơ sở dữ liệu của website và đưa ra sử dụng dựa theo yêu cầu của người dùng.
 # Kiến thức cơ bản về website
 ## HTML
 
@@ -38,7 +39,7 @@ Nội dung
 
 ## Javascript
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzAzNTYzNzQsLTIwNzEzNjgyMTksLT
-IwNzEzNjgyMTksMTIxMTA2NzI2Myw5NzEwNjgwMTEsODI5MTgw
-NjY1LC02MzI3MzMzODNdfQ==
+eyJoaXN0b3J5IjpbMTYyNjczMzI3OSwtMTMzMDM1NjM3NCwtMj
+A3MTM2ODIxOSwtMjA3MTM2ODIxOSwxMjExMDY3MjYzLDk3MTA2
+ODAxMSw4MjkxODA2NjUsLTYzMjczMzM4M119
 -->

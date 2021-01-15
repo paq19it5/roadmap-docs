@@ -40,10 +40,10 @@ Lưu ý: HTML không phải là ngôn ngữ lập trình.
 
 Bằng cách dùng  [HTML động](https://vi.wikipedia.org/wiki/HTML_%C4%91%E1%BB%99ng "HTML động")  hoặc  [Ajax](https://vi.wikipedia.org/wiki/Ajax_(l%E1%BA%ADp_tr%C3%ACnh) "Ajax (lập trình)"), lập trình viên có thể được tạo ra và xử lý bởi số lượng lớn các công cụ, từ một chương trình soạn thảo văn bản đơn giản – có thể gõ vào ngay từ những dòng đầu tiên – cho đến những công cụ xuất bản  [WYSIWYG](https://vi.wikipedia.org/wiki/WYSIWYG "WYSIWYG")  phức tạp.  **Hypertext**  là cách mà các trang Web (được thiết kế bằng HTML) được kết nối với nhau. Và như thế, đường link có trên trang Web được gọi là Hypertext. Như tên gọi đã nói,  **HTML**  là ngôn ngữ đánh dấu bằng thẻ (**Markup Language**), nghĩa là bạn sử dụng HTML để đánh dấu một tài liệu text bằng các  **thẻ (tag)**  để nói cho trình duyệt Web cách để cấu trúc nó để hiển thị
 ## CSS
-
+**CSS là chữ viết tắt của cụm từ Cascading Style Sheets** – dịch sang tiếng Việt có nghĩa là tập tin định vị theo tầng. CSS được sử dụng nhằm miêu tả cách trình bày của các loại tài liệu viết bằng ngôn ngữ HTML và XHML. Lúc này CSS sẽ hỗ trợ người dùng có thể thiết kế hay cho thêm vào các phần từ HTML một vài thứ mới mẻ, lạ mắt như thay đổi màu của trang web, thay đổi màu chữ, chuyển đổi cấu trúc,… Ngoài ra CSS cũng có thể được sử dụng cho XML, XUL, SVG,.. Tất cả các hoạt động của **CSS được W3C (World Wide Web Consortium) duy trì và phát triển**.
 ## Javascript
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODkyNzY2NTAsLTEzMzAzNTYzNzQsLT
-IwNzEzNjgyMTksLTIwNzEzNjgyMTksMTIxMTA2NzI2Myw5NzEw
-NjgwMTEsODI5MTgwNjY1LC02MzI3MzMzODNdfQ==
+eyJoaXN0b3J5IjpbLTUzNzYyOTU3OCwtMTMzMDM1NjM3NCwtMj
+A3MTM2ODIxOSwtMjA3MTM2ODIxOSwxMjExMDY3MjYzLDk3MTA2
+ODAxMSw4MjkxODA2NjUsLTYzMjczMzM4M119
 -->
